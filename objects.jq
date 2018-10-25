@@ -1,7 +1,6 @@
 module {
     "name": "objects",
-    "description": "Utilities generally related to objects for jq, written in jq.",
-    "homepage": "https://gist.github.com/tlagrone/e33762f4b374488ed91d45e07a37cc51",
+    "description": "Utility functions that pertain to objects",
     "author": "Travis C. LaGrone",
     "email": "travis.lagrone@trintech.com",
     "company": "Trintech"
