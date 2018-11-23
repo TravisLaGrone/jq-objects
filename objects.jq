@@ -2,8 +2,7 @@ module {
     "name": "objects",
     "description": "Utility functions that pertain to objects",
     "author": "Travis C. LaGrone",
-    "email": "travis.lagrone@trintech.com",
-    "company": "Trintech"
+    "email": "LaGrone.T@gmail.com"
 };
 
 
